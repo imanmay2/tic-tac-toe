@@ -1,5 +1,8 @@
-/* body {
-    background-image: url("img1.png");
-    background-repeat: no-repeat;
-    
-  } */
+body {
+    background-color: #038a91;
+  }
+
+
+  .heading{
+    font-size: 300%;
+  }
